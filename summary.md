@@ -1,0 +1,22 @@
+# Summary
+
+* [Introduction](README.md)
+* [Introduction](01introduction.md)
+* [Information, attention and the brain](02information-attention-and-the-brain.md)
+    * [What is attention?](03what-is-attention.md)
+    * [Information as a reward and information foraging](04information-as-a-reward-and-information-foraging.md)
+* [Attention and the economy](05attention-and-the-economy.md)
+    * [The methods developed to capture attention](06the-methods-developed-to-capture-attention.md)
+* [How is our mind affected?](07how-is-our-mind-affected.md)
+    * [Controlling the self and the phone](08controlling-the-self-and-the-phone.md)
+    * [The trail of the spotlight](09the-trail-of-the-spotlight.md)
+    * [Optimal experience as happiness](10optimal-experience-as-happiness.md)
+* [Getting to attentive design](11getting-to-attentive-design.md)
+    * [High-level-ideas](12high-level-ideas.md)
+    * [Everyday business struggles](13everyday-business-struggles.md)
+    * [Designer's tools and solutions](14designers-tools-and-solutions.md)
+* [Conclusion](15conclusion.md)
+* [Acknowledgements](16acknowledgements.md)
+* [Appendix–Interviews](17appendix-interviews.md)
+* [Bibliography](18bibliography.md)
+
